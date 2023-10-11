@@ -1,0 +1,48 @@
+﻿.mainDiv {
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Comic Sans MS';
+}
+
+.gridHeader {
+    font-size: large;
+    font-weight: bold;
+    background-color: greenyellow;
+}
+
+.gridRows {
+    background-color: aquamarine;
+}
+
+.aNew {
+    background-color: yellow;
+    width: 30%;
+    font-size:large;
+    cursor:grab;
+}
+
+.BodyAction{
+    background-color:burlywood;
+    margin: auto;
+    margin-top:50px;
+    text-align:center;
+}
+
+.MainNewsDiv{
+    background-color: coral;
+}
+
+.Newsheader{
+    background-color:khaki;
+    color:saddlebrown;
+}
+
+.gridNews{
+    width:100%;
+}
+
+.MoreNews{
+    text-align:right;
+}
+
